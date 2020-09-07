@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-05-25T13:22:22.74+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2240" WIDTH="1391">
+         <TopMargin HEIGHT="158" WIDTH="1391" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2045" WIDTH="57" VPOS="158" HPOS="0"/>
+         <RightMargin HEIGHT="2045" WIDTH="98" VPOS="158" HPOS="1293"/>
+         <BottomMargin HEIGHT="37" WIDTH="1391" VPOS="2203" HPOS="0"/>
+         <PrintSpace HEIGHT="2045" WIDTH="1236" VPOS="158" HPOS="57">
+            <TextBlock ID="r_1_1" HEIGHT="29" WIDTH="33" VPOS="158" HPOS="584">
+               <Shape>
+                  <Polygon POINTS="584,158 617,158 617,187 584,187"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="186"
+                         HEIGHT="27"
+                         WIDTH="31"
+                         VPOS="159"
+                         HPOS="585">
+                  <String ID="string_tl_1"
+                          HEIGHT="27"
+                          WIDTH="31"
+                          VPOS="159"
+                          HPOS="585"
+                          CONTENT="13"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_1" HEIGHT="52" WIDTH="911" VPOS="231" HPOS="59">
+               <Shape>
+                  <Polygon POINTS="59,231 970,231 970,283 59,283"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="282"
+                         HEIGHT="50"
+                         WIDTH="909"
+                         VPOS="232"
+                         HPOS="60">
+                  <String ID="string_tl_2"
+                          HEIGHT="50"
+                          WIDTH="909"
+                          VPOS="232"
+                          HPOS="60"
+                          CONTENT="Buscli, H. T. B. in manufacturen, iweieslraat, B 170."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_2" HEIGHT="49" WIDTH="689" VPOS="271" HPOS="60">
+               <Shape>
+                  <Polygon POINTS="60,271 749,271 749,320 60,320"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="319"
+                         HEIGHT="47"
+                         WIDTH="687"
+                         VPOS="272"
+                         HPOS="61">
+                  <String ID="string_tl_3"
+                          HEIGHT="47"
+                          WIDTH="687"
+                          VPOS="272"
+                          HPOS="61"
+                          CONTENT="Buskes, U. uitdrager, haverstraat, E 152."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_3" HEIGHT="51" WIDTH="901" VPOS="305" HPOS="62">
+               <Shape>
+                  <Polygon POINTS="62,305 963,305 963,356 62,356"/>
+               </Shape>
+               <TextLine ID="tl_4"
+                         BASELINE="355"
+                         HEIGHT="49"
+                         WIDTH="899"
+                         VPOS="306"
+                         HPOS="63">
+                  <String ID="string_tl_4"
+                          HEIGHT="49"
+                          WIDTH="899"
+                          VPOS="306"
+                          HPOS="63"
+                          CONTENT="Buskes, W. heel- en vroed meester, oudkerkhof, F 70."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_4" HEIGHT="46" WIDTH="620" VPOS="346" HPOS="62">
+               <Shape>
+                  <Polygon POINTS="62,346 682,346 682,392 62,392"/>
+               </Shape>
+               <TextLine ID="tl_5"
+                         BASELINE="391"
+                         HEIGHT="44"
+                         WIDTH="618"
+                         VPOS="347"
+                         HPOS="63">
+                  <String ID="string_tl_5"
+                          HEIGHT="44"
+                          WIDTH="618"
+                          VPOS="347"
+                          HPOS="63"
+                          CONTENT="Buskes, wed. H. J. — trans, F 209."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_5" HEIGHT="52" WIDTH="904" VPOS="379" HPOS="62">
+               <Shape>
+                  <Polygon POINTS="62,379 966,379 966,431 62,431"/>
+               </Shape>
+               <TextLine ID="tl_6"
+                         BASELINE="430"
+                         HEIGHT="50"
+                         WIDTH="902"
+                         VPOS="380"
+                         HPOS="63">
+                  <String ID="string_tl_6"
+                          HEIGHT="50"
+                          WIDTH="902"
+                          VPOS="380"
+                          HPOS="63"
+                          CONTENT="Bussy, L P. Cosquino, de, grossier, oudegracht, A 63."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_6" HEIGHT="49" WIDTH="753" VPOS="417" HPOS="64">
+               <Shape>
+                  <Polygon POINTS="64,417 817,417 817,466 64,466"/>
+               </Shape>
+               <TextLine ID="tl_7"
+                         BASELINE="465"
+                         HEIGHT="47"
+                         WIDTH="751"
+                         VPOS="418"
+                         HPOS="65">
+                  <String ID="string_tl_7"
+                          HEIGHT="47"
+                          WIDTH="751"
+                          VPOS="418"
+                          HPOS="65"
+                          CONTENT="Buike, J. F. boomkweeker. vreeburg, Ü 137."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_7" HEIGHT="49" WIDTH="910" VPOS="452" HPOS="65">
+               <Shape>
+                  <Polygon POINTS="65,452 975,452 975,501 65,501"/>
+               </Shape>
+               <TextLine ID="tl_8"
+                         BASELINE="500"
+                         HEIGHT="47"
+                         WIDTH="908"
+                         VPOS="453"
+                         HPOS="66">
+                  <String ID="string_tl_8"
+                          HEIGHT="47"
+                          WIDTH="908"
+                          VPOS="453"
+                          HPOS="66"
+                          CONTENT="Buuren, W. van, kleedermakcr. geertekerkhof, B 839."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_8" HEIGHT="48" WIDTH="864" VPOS="490" HPOS="65">
+               <Shape>
+                  <Polygon POINTS="65,490 929,490 929,538 65,538"/>
+               </Shape>
+               <TextLine ID="tl_9"
+                         BASELINE="537"
+                         HEIGHT="46"
+                         WIDTH="862"
+                         VPOS="491"
+                         HPOS="66">
+                  <String ID="string_tl_9"
+                          HEIGHT="46"
+                          WIDTH="862"
+                          VPOS="491"
+                          HPOS="66"
+                          CONTENT="Buuren, wed. C. A. Boll van, — oudegracht, C 41."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_9" HEIGHT="47" WIDTH="872" VPOS="528" HPOS="67">
+               <Shape>
+                  <Polygon POINTS="67,528 939,528 939,575 67,575"/>
+               </Shape>
+               <TextLine ID="tl_10"
+                         BASELINE="574"
+                         HEIGHT="45"
+                         WIDTH="870"
+                         VPOS="529"
+                         HPOS="68">
+                  <String ID="string_tl_10"
+                          HEIGHT="45"
+                          WIDTH="870"
+                          VPOS="529"
+                          HPOS="68"
+                          CONTENT="Buuren, W. van, smid, loefbergmakersiraal, il 272."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_10" HEIGHT="48" WIDTH="853" VPOS="564" HPOS="67">
+               <Shape>
+                  <Polygon POINTS="67,564 920,564 920,612 67,612"/>
+               </Shape>
+               <TextLine ID="tl_11"
+                         BASELINE="611"
+                         HEIGHT="46"
+                         WIDTH="851"
+                         VPOS="565"
+                         HPOS="68">
+                  <String ID="string_tl_11"
+                          HEIGHT="46"
+                          WIDTH="851"
+                          VPOS="565"
+                          HPOS="68"
+                          CONTENT="Buuren, A. van, klecdermaker. haverstraat, E 120."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_11" HEIGHT="47" WIDTH="662" VPOS="603" HPOS="68">
+               <Shape>
+                  <Polygon POINTS="68,603 730,603 730,650 68,650"/>
+               </Shape>
+               <TextLine ID="tl_12"
+                         BASELINE="649"
+                         HEIGHT="45"
+                         WIDTH="660"
+                         VPOS="604"
+                         HPOS="69">
+                  <String ID="string_tl_12"
+                          HEIGHT="45"
+                          WIDTH="660"
+                          VPOS="604"
+                          HPOS="69"
+                          CONTENT="Caderius; W. — jacobiekerkhof, C 572."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_12" HEIGHT="46" WIDTH="676" VPOS="640" HPOS="69">
+               <Shape>
+                  <Polygon POINTS="69,640 745,640 745,686 69,686"/>
+               </Shape>
+               <TextLine ID="tl_13"
+                         BASELINE="685"
+                         HEIGHT="44"
+                         WIDTH="674"
+                         VPOS="641"
+                         HPOS="70">
+                  <String ID="string_tl_13"
+                          HEIGHT="44"
+                          WIDTH="674"
+                          VPOS="641"
+                          HPOS="70"
+                          CONTENT="Caem, A. 31. van, — oudegracht, B 59."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_13" HEIGHT="46" WIDTH="770" VPOS="676" HPOS="69">
+               <Shape>
+                  <Polygon POINTS="69,676 839,676 839,722 69,722"/>
+               </Shape>
+               <TextLine ID="tl_14"
+                         BASELINE="721"
+                         HEIGHT="44"
+                         WIDTH="768"
+                         VPOS="677"
+                         HPOS="70">
+                  <String ID="string_tl_14"
+                          HEIGHT="44"
+                          WIDTH="768"
+                          VPOS="677"
+                          HPOS="70"
+                          CONTENT="Caes, P. A. de, tingieter, oudegracht, F 106."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_14" HEIGHT="86" WIDTH="1060" VPOS="709" HPOS="71">
+               <Shape>
+                  <Polygon POINTS="71,709 1131,709 1131,795 71,795"/>
+               </Shape>
+               <TextLine ID="tl_15"
+                         BASELINE="758"
+                         HEIGHT="48"
+                         WIDTH="1058"
+                         VPOS="710"
+                         HPOS="72">
+                  <String ID="string_tl_15"
+                          HEIGHT="48"
+                          WIDTH="1058"
+                          VPOS="710"
+                          HPOS="72"
+                          CONTENT="Calkoen, A.Baron, voorz. van het muulcollei’ie hamburgerslr., F 191"/>
+               </TextLine>
+               <TextLine ID="tl_16"
+                         BASELINE="794"
+                         HEIGHT="46"
+                         WIDTH="940"
+                         VPOS="748"
+                         HPOS="72">
+                  <String ID="string_tl_16"
+                          HEIGHT="46"
+                          WIDTH="940"
+                          VPOS="748"
+                          HPOS="72"
+                          CONTENT="Calkoeu, W. J. van Beeck, — achter st. pieler, F 330."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_15" HEIGHT="89" WIDTH="1066" VPOS="782" HPOS="72">
+               <Shape>
+                  <Polygon POINTS="72,782 1138,782 1138,871 72,871"/>
+               </Shape>
+               <TextLine ID="tl_17"
+                         BASELINE="831"
+                         HEIGHT="48"
+                         WIDTH="1064"
+                         VPOS="783"
+                         HPOS="73">
+                  <String ID="string_tl_17"
+                          HEIGHT="48"
+                          WIDTH="1064"
+                          VPOS="783"
+                          HPOS="73"
+                          CONTENT="Calkoen , A. J. van Beeck , lid der gedep. stalen. Maliebaan , I 299."/>
+               </TextLine>
+               <TextLine ID="tl_18"
+                         BASELINE="870"
+                         HEIGHT="45"
+                         WIDTH="666"
+                         VPOS="825"
+                         HPOS="74">
+                  <String ID="string_tl_18"
+                          HEIGHT="45"
+                          WIDTH="666"
+                          VPOS="825"
+                          HPOS="74"
+                          CONTENT="Calkoen , jonkvr. S. M. — drift, G 330."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_16" HEIGHT="84" WIDTH="955" VPOS="858" HPOS="74">
+               <Shape>
+                  <Polygon POINTS="74,858 1029,858 1029,942 74,942"/>
+               </Shape>
+               <TextLine ID="tl_19"
+                         BASELINE="904"
+                         HEIGHT="45"
+                         WIDTH="944"
+                         VPOS="859"
+                         HPOS="75">
+                  <String ID="string_tl_19"
+                          HEIGHT="45"
+                          WIDTH="944"
+                          VPOS="859"
+                          HPOS="75"
+                          CONTENT="Calkoen, Douairière J. — kromme nieuwcgracht , G 300."/>
+               </TextLine>
+               <TextLine ID="tl_20"
+                         BASELINE="941"
+                         HEIGHT="45"
+                         WIDTH="951"
+                         VPOS="896"
+                         HPOS="77">
+                  <String ID="string_tl_20"
+                          HEIGHT="45"
+                          WIDTH="951"
+                          VPOS="896"
+                          HPOS="77"
+                          CONTENT="Calkoen, Douairière H. M. C. — van wijkskadc, II 32f&gt;d."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_17" HEIGHT="50" WIDTH="824" VPOS="933" HPOS="76">
+               <Shape>
+                  <Polygon POINTS="76,933 900,933 900,983 76,983"/>
+               </Shape>
+               <TextLine ID="tl_21"
+                         BASELINE="982"
+                         HEIGHT="48"
+                         WIDTH="822"
+                         VPOS="934"
+                         HPOS="77">
+                  <String ID="string_tl_21"
+                          HEIGHT="48"
+                          WIDTH="822"
+                          VPOS="934"
+                          HPOS="77"
+                          CONTENT="Calquin , J. J. G. kappellaan. mariaplaais, E 402."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_18" HEIGHT="47" WIDTH="758" VPOS="971" HPOS="76">
+               <Shape>
+                  <Polygon POINTS="76,971 834,971 834,1018 76,1018"/>
+               </Shape>
+               <TextLine ID="tl_22"
+                         BASELINE="1017"
+                         HEIGHT="45"
+                         WIDTH="756"
+                         VPOS="972"
+                         HPOS="77">
+                  <String ID="string_tl_22"
+                          HEIGHT="45"
+                          WIDTH="756"
+                          VPOS="972"
+                          HPOS="77"
+                          CONTENT="Camhier, mej. C. 31. — schontensteeg, G 138."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_19" HEIGHT="48" WIDTH="869" VPOS="1007" HPOS="78">
+               <Shape>
+                  <Polygon POINTS="78,1007 947,1007 947,1055 78,1055"/>
+               </Shape>
+               <TextLine ID="tl_23"
+                         BASELINE="1054"
+                         HEIGHT="46"
+                         WIDTH="867"
+                         VPOS="1008"
+                         HPOS="79">
+                  <String ID="string_tl_23"
+                          HEIGHT="46"
+                          WIDTH="867"
+                          VPOS="1008"
+                          HPOS="79"
+                          CONTENT="Campagne Jz., C. grutter, lange nieuwslraat, A 329."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_20" HEIGHT="49" WIDTH="879" VPOS="1043" HPOS="79">
+               <Shape>
+                  <Polygon POINTS="79,1043 958,1043 958,1092 79,1092"/>
+               </Shape>
+               <TextLine ID="tl_24"
+                         BASELINE="1091"
+                         HEIGHT="47"
+                         WIDTH="877"
+                         VPOS="1044"
+                         HPOS="80">
+                  <String ID="string_tl_24"
+                          HEIGHT="47"
+                          WIDTH="877"
+                          VPOS="1044"
+                          HPOS="80"
+                          CONTENT="Campagne, W. in gomt en zilver, lichtegaard. F 133."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_21" HEIGHT="46" WIDTH="695" VPOS="1083" HPOS="79">
+               <Shape>
+                  <Polygon POINTS="79,1083 774,1083 774,1129 79,1129"/>
+               </Shape>
+               <TextLine ID="tl_25"
+                         BASELINE="1128"
+                         HEIGHT="44"
+                         WIDTH="693"
+                         VPOS="1084"
+                         HPOS="80">
+                  <String ID="string_tl_25"
+                          HEIGHT="44"
+                          WIDTH="693"
+                          VPOS="1084"
+                          HPOS="80"
+                          CONTENT="Campagne, C. grutter, westerkade, K 198."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_22" HEIGHT="45" WIDTH="640" VPOS="1120" HPOS="80">
+               <Shape>
+                  <Polygon POINTS="80,1120 720,1120 720,1165 80,1165"/>
+               </Shape>
+               <TextLine ID="tl_26"
+                         BASELINE="1164"
+                         HEIGHT="43"
+                         WIDTH="638"
+                         VPOS="1121"
+                         HPOS="81">
+                  <String ID="string_tl_26"
+                          HEIGHT="43"
+                          WIDTH="638"
+                          VPOS="1121"
+                          HPOS="81"
+                          CONTENT="Campagne J. — westerkade, K, I98his."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_23" HEIGHT="48" WIDTH="726" VPOS="1155" HPOS="79">
+               <Shape>
+                  <Polygon POINTS="79,1155 805,1155 805,1203 79,1203"/>
+               </Shape>
+               <TextLine ID="tl_27"
+                         BASELINE="1202"
+                         HEIGHT="46"
+                         WIDTH="724"
+                         VPOS="1156"
+                         HPOS="80">
+                  <String ID="string_tl_27"
+                          HEIGHT="46"
+                          WIDTH="724"
+                          VPOS="1156"
+                          HPOS="80"
+                          CONTENT="Campen, F. G. van, — leidschepad, L 149b."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_24" HEIGHT="121" WIDTH="966" VPOS="1189" HPOS="80">
+               <Shape>
+                  <Polygon POINTS="80,1189 1046,1189 1046,1310 80,1310"/>
+               </Shape>
+               <TextLine ID="tl_28"
+                         BASELINE="1235"
+                         HEIGHT="45"
+                         WIDTH="963"
+                         VPOS="1190"
+                         HPOS="82">
+                  <String ID="string_tl_28"
+                          HEIGHT="45"
+                          WIDTH="963"
+                          VPOS="1190"
+                          HPOS="82"
+                          CONTENT="Canlzlaar, Douairière G. — kromme nieuwegrachl, F 372."/>
+               </TextLine>
+               <TextLine ID="tl_29"
+                         BASELINE="1272"
+                         HEIGHT="42"
+                         WIDTH="735"
+                         VPOS="1230"
+                         HPOS="81">
+                  <String ID="string_tl_29"
+                          HEIGHT="42"
+                          WIDTH="735"
+                          VPOS="1230"
+                          HPOS="81"
+                          CONTENT="Camue, A. A. timmerman, oudegracht, C 52"/>
+               </TextLine>
+               <TextLine ID="tl_30"
+                         BASELINE="1309"
+                         HEIGHT="43"
+                         WIDTH="843"
+                         VPOS="1266"
+                         HPOS="82">
+                  <String ID="string_tl_30"
+                          HEIGHT="43"
+                          WIDTH="843"
+                          VPOS="1266"
+                          HPOS="82"
+                          CONTENT="Camue, wed. B. 11. modistc. donkere gaard, F 144."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_25" HEIGHT="123" WIDTH="1068" VPOS="1299" HPOS="82">
+               <Shape>
+                  <Polygon POINTS="82,1299 1150,1299 1150,1422 82,1422"/>
+               </Shape>
+               <TextLine ID="tl_31"
+                         BASELINE="1349"
+                         HEIGHT="49"
+                         WIDTH="1017"
+                         VPOS="1300"
+                         HPOS="84">
+                  <String ID="string_tl_31"
+                          HEIGHT="49"
+                          WIDTH="1017"
+                          VPOS="1300"
+                          HPOS="84"
+                          CONTENT="Capellen, K. van der. kapitein van kleeding. rijnkade. I) 163‘k"/>
+               </TextLine>
+               <TextLine ID="tl_32"
+                         BASELINE="1386"
+                         HEIGHT="49"
+                         WIDTH="1066"
+                         VPOS="1337"
+                         HPOS="83">
+                  <String ID="string_tl_32"
+                          HEIGHT="49"
+                          WIDTH="1066"
+                          VPOS="1337"
+                          HPOS="83"
+                          CONTENT="Capellen, W. van, beurtschipper op Groningen, weerdsingel, M7."/>
+               </TextLine>
+               <TextLine ID="tl_33"
+                         BASELINE="1421"
+                         HEIGHT="43"
+                         WIDTH="785"
+                         VPOS="1378"
+                         HPOS="84">
+                  <String ID="string_tl_33"
+                          HEIGHT="43"
+                          WIDTH="785"
+                          VPOS="1378"
+                          HPOS="84"
+                          CONTENT="Cardinaal, K. — kromme nieuwegrachl, G 300."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_26" HEIGHT="44" WIDTH="739" VPOS="1413" HPOS="84">
+               <Shape>
+                  <Polygon POINTS="84,1413 823,1413 823,1457 84,1457"/>
+               </Shape>
+               <TextLine ID="tl_34"
+                         BASELINE="1456"
+                         HEIGHT="42"
+                         WIDTH="737"
+                         VPOS="1414"
+                         HPOS="85">
+                  <String ID="string_tl_34"
+                          HEIGHT="42"
+                          WIDTH="737"
+                          VPOS="1414"
+                          HPOS="85"
+                          CONTENT="Carlebur, J. D — korte nieuwst raat. F 190."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_27" HEIGHT="47" WIDTH="983" VPOS="1447" HPOS="85">
+               <Shape>
+                  <Polygon POINTS="85,1447 1068,1447 1068,1494 85,1494"/>
+               </Shape>
+               <TextLine ID="tl_35"
+                         BASELINE="1493"
+                         HEIGHT="45"
+                         WIDTH="981"
+                         VPOS="1448"
+                         HPOS="86">
+                  <String ID="string_tl_35"
+                          HEIGHT="45"
+                          WIDTH="981"
+                          VPOS="1448"
+                          HPOS="86"
+                          CONTENT="Carlebur, W. E huisonderwijzer, korte nieuwslraat, F 196."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_28" HEIGHT="44" WIDTH="721" VPOS="1487" HPOS="86">
+               <Shape>
+                  <Polygon POINTS="86,1487 807,1487 807,1531 86,1531"/>
+               </Shape>
+               <TextLine ID="tl_36"
+                         BASELINE="1530"
+                         HEIGHT="42"
+                         WIDTH="719"
+                         VPOS="1488"
+                         HPOS="87">
+                  <String ID="string_tl_36"
+                          HEIGHT="42"
+                          WIDTH="719"
+                          VPOS="1488"
+                          HPOS="87"
+                          CONTENT="Caro, J. 11. deurwaarder, servetsteeg F 282."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_29" HEIGHT="45" WIDTH="670" VPOS="1525" HPOS="86">
+               <Shape>
+                  <Polygon POINTS="86,1525 756,1525 756,1570 86,1570"/>
+               </Shape>
+               <TextLine ID="tl_37"
+                         BASELINE="1569"
+                         HEIGHT="43"
+                         WIDTH="668"
+                         VPOS="1526"
+                         HPOS="87">
+                  <String ID="string_tl_37"
+                          HEIGHT="43"
+                          WIDTH="668"
+                          VPOS="1526"
+                          HPOS="87"
+                          CONTENT="Caspers. J. il. — bemuurdeweerd, 31 90."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_30" HEIGHT="46" WIDTH="729" VPOS="1560" HPOS="87">
+               <Shape>
+                  <Polygon POINTS="87,1560 816,1560 816,1606 87,1606"/>
+               </Shape>
+               <TextLine ID="tl_38"
+                         BASELINE="1605"
+                         HEIGHT="44"
+                         WIDTH="727"
+                         VPOS="1561"
+                         HPOS="88">
+                  <String ID="string_tl_38"
+                          HEIGHT="44"
+                          WIDTH="727"
+                          VPOS="1561"
+                          HPOS="88"
+                          CONTENT="Cassa, J. F. gep. maj. westerkade, K 209bis."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_31" HEIGHT="86" WIDTH="1011" VPOS="1594" HPOS="87">
+               <Shape>
+                  <Polygon POINTS="87,1594 1098,1594 1098,1680 87,1680"/>
+               </Shape>
+               <TextLine ID="tl_39"
+                         BASELINE="1643"
+                         HEIGHT="48"
+                         WIDTH="1009"
+                         VPOS="1595"
+                         HPOS="88">
+                  <String ID="string_tl_39"
+                          HEIGHT="48"
+                          WIDTH="1009"
+                          VPOS="1595"
+                          HPOS="88"
+                          CONTENT="Caslelyn, mej. C. 31. in kruidenierswaren lichtegaard, F 139."/>
+               </TextLine>
+               <TextLine ID="tl_40"
+                         BASELINE="1679"
+                         HEIGHT="44"
+                         WIDTH="795"
+                         VPOS="1635"
+                         HPOS="89">
+                  <String ID="string_tl_40"
+                          HEIGHT="44"
+                          WIDTH="795"
+                          VPOS="1635"
+                          HPOS="89"
+                          CONTENT="Cals, 8. hypotheekbewaarder, rijnkade. I) 103bb."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_32" HEIGHT="80" WIDTH="801" VPOS="1673" HPOS="89">
+               <Shape>
+                  <Polygon POINTS="89,1673 890,1673 890,1753 89,1753"/>
+               </Shape>
+               <TextLine ID="tl_41"
+                         BASELINE="1714"
+                         HEIGHT="40"
+                         WIDTH="689"
+                         VPOS="1674"
+                         HPOS="91">
+                  <String ID="string_tl_41"
+                          HEIGHT="40"
+                          WIDTH="689"
+                          VPOS="1674"
+                          HPOS="91"
+                          CONTENT="Cazander, J. schilder, varkenmarkt. C 590"/>
+               </TextLine>
+               <TextLine ID="tl_42"
+                         BASELINE="1752"
+                         HEIGHT="44"
+                         WIDTH="799"
+                         VPOS="1708"
+                         HPOS="90">
+                  <String ID="string_tl_42"
+                          HEIGHT="44"
+                          WIDTH="799"
+                          VPOS="1708"
+                          HPOS="90"
+                          CONTENT="Cazius, wed. U. W. F. ridderschapstraat, II 735."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_33" HEIGHT="43" WIDTH="717" VPOS="1745" HPOS="90">
+               <Shape>
+                  <Polygon POINTS="90,1745 807,1745 807,1788 90,1788"/>
+               </Shape>
+               <TextLine ID="tl_43"
+                         BASELINE="1787"
+                         HEIGHT="41"
+                         WIDTH="715"
+                         VPOS="1746"
+                         HPOS="91">
+                  <String ID="string_tl_43"
+                          HEIGHT="41"
+                          WIDTH="715"
+                          VPOS="1746"
+                          HPOS="91"
+                          CONTENT="Chatelaiu. A. inslituleur. voorstraat, 11 407."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_34" HEIGHT="42" WIDTH="555" VPOS="1784" HPOS="91">
+               <Shape>
+                  <Polygon POINTS="91,1784 646,1784 646,1826 91,1826"/>
+               </Shape>
+               <TextLine ID="tl_44"
+                         BASELINE="1825"
+                         HEIGHT="40"
+                         WIDTH="553"
+                         VPOS="1785"
+                         HPOS="92">
+                  <String ID="string_tl_44"
+                          HEIGHT="40"
+                          WIDTH="553"
+                          VPOS="1785"
+                          HPOS="92"
+                          CONTENT="Chevalier, C. — oudegracht, A 3."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_35" HEIGHT="46" WIDTH="716" VPOS="1819" HPOS="92">
+               <Shape>
+                  <Polygon POINTS="92,1819 808,1819 808,1865 92,1865"/>
+               </Shape>
+               <TextLine ID="tl_45"
+                         BASELINE="1864"
+                         HEIGHT="44"
+                         WIDTH="714"
+                         VPOS="1820"
+                         HPOS="93">
+                  <String ID="string_tl_45"
+                          HEIGHT="44"
+                          WIDTH="714"
+                          VPOS="1820"
+                          HPOS="93"
+                          CONTENT="Chrislemeijer, J. B. — plompeloren, II 008."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_36" HEIGHT="45" WIDTH="885" VPOS="1855" HPOS="90">
+               <Shape>
+                  <Polygon POINTS="90,1855 975,1855 975,1900 90,1900"/>
+               </Shape>
+               <TextLine ID="tl_46"
+                         BASELINE="1899"
+                         HEIGHT="43"
+                         WIDTH="883"
+                         VPOS="1856"
+                         HPOS="91">
+                  <String ID="string_tl_46"
+                          HEIGHT="43"
+                          WIDTH="883"
+                          VPOS="1856"
+                          HPOS="91"
+                          CONTENT="Cleef, Dr. G. 3Iunnicks van, — nieuwcgracht, A 878."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_37" HEIGHT="47" WIDTH="907" VPOS="1890" HPOS="93">
+               <Shape>
+                  <Polygon POINTS="93,1890 1000,1890 1000,1937 93,1937"/>
+               </Shape>
+               <TextLine ID="tl_47"
+                         BASELINE="1936"
+                         HEIGHT="45"
+                         WIDTH="905"
+                         VPOS="1891"
+                         HPOS="94">
+                  <String ID="string_tl_47"
+                          HEIGHT="45"
+                          WIDTH="905"
+                          VPOS="1891"
+                          HPOS="94"
+                          CONTENT="Clemens, P. J. spiegelmaker. lange nieuwslraat, \ 537."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_38" HEIGHT="45" WIDTH="861" VPOS="1929" HPOS="94">
+               <Shape>
+                  <Polygon POINTS="94,1929 955,1929 955,1974 94,1974"/>
+               </Shape>
+               <TextLine ID="tl_48"
+                         BASELINE="1973"
+                         HEIGHT="43"
+                         WIDTH="859"
+                         VPOS="1930"
+                         HPOS="95">
+                  <String ID="string_tl_48"
+                          HEIGHT="43"
+                          WIDTH="859"
+                          VPOS="1930"
+                          HPOS="95"
+                          CONTENT="Cleven, F. veilenkapper, loef bergmakersiraal, II 200."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_39" HEIGHT="46" WIDTH="873" VPOS="1965" HPOS="95">
+               <Shape>
+                  <Polygon POINTS="95,1965 968,1965 968,2011 95,2011"/>
+               </Shape>
+               <TextLine ID="tl_49"
+                         BASELINE="2010"
+                         HEIGHT="44"
+                         WIDTH="871"
+                         VPOS="1966"
+                         HPOS="96">
+                  <String ID="string_tl_49"
+                          HEIGHT="44"
+                          WIDTH="871"
+                          VPOS="1966"
+                          HPOS="96"
+                          CONTENT="Clous, C. kastelein sociëteit six semper. trans F 254."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_40" HEIGHT="46" WIDTH="787" VPOS="2003" HPOS="96">
+               <Shape>
+                  <Polygon POINTS="96,2003 883,2003 883,2049 96,2049"/>
+               </Shape>
+               <TextLine ID="tl_50"
+                         BASELINE="2048"
+                         HEIGHT="44"
+                         WIDTH="785"
+                         VPOS="2004"
+                         HPOS="97">
+                  <String ID="string_tl_50"
+                          HEIGHT="44"
+                          WIDTH="785"
+                          VPOS="2004"
+                          HPOS="97"
+                          CONTENT="Cochius, J. D. controleur, nieuwegrachl, A 800."/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_3" HEIGHT="5" WIDTH="47" VPOS="2198" HPOS="1246"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

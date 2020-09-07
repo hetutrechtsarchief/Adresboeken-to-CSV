@@ -1,0 +1,21 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "args": "^5.0.1",
+    "csv-writer": "^1.6.0",
+    "node-xml-stream-parser": "git+https://github.com/mfahlandt/node-xml-stream-parser.git",
+    "rdf": "^4.1.0",
+    "replacestream": "^4.0.3",
+    "xml-stream": "^0.4.5",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
